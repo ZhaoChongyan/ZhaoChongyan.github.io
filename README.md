@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ZhaoChongyan/ZhaoChongyan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+You can use the [editor on GitHub](https://github.com/ZhaoChongyan/ZhaoChongyan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.  
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -38,13 +37,12 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## 欢迎来到GitHub Pages
 
-您可以使用[GitHub上的编辑器](https://github.com/ZhaoChongyan/ZhaoChongyan.github.io/edit/master/README.md)维护和预览Markdown文件中网站的内容。
-
+您可以使用[GitHub上的编辑器](https://github.com/ZhaoChongyan/ZhaoChongyan.github.io/edit/master/README.md)维护和预览Markdown文件中网站的内容。  
 每当您提交到该存储库时，GitHub Pages都将运行[Jekyll](https://jekyllrb.com/)从Markdown文件中的内容重建站点中的页面。
 
 ### Markdown
 
-Markdown是一种轻巧且易于使用的语法，可用于样式化您的文字。它包括以下约定
+Markdown是一种轻巧且易于使用的语法，可用于样式化您的文字。它包括以下语法
 
 ```markdown
 语法突出显示的代码块
